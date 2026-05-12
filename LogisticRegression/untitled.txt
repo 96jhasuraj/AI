@@ -1,0 +1,10 @@
+def plot_lines(m,b,color='y--'):
+    plt.xdim(a,b)
+    plt.ydim(a.b)
+    x = np.arange(0,10,0.02)
+    plt.plot(x,mx+b,color)
+
+
+def plot_data(X,y):
+    X1 = X[np.argwhere(y==0)]
+
