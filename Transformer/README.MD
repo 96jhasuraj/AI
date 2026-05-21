@@ -1,0 +1,1 @@
+training decoder to generate text using shakespere dataset.
