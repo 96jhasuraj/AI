@@ -4,4 +4,4 @@
 
 #3. Decoder only transformer: [Decoder](https://github.com/96jhasuraj/AI/blob/main/Transformer/README.MD)
 
-#4. Sentiment Analysis: [Encoder](https://github.com/96jhasuraj/AI/blob/main/Sentiment Analysis/README.MD)
+#4. Sentiment Analysis: [Encoder](https://github.com/96jhasuraj/AI/blob/main/Sentiment%20Analysis/README.md))
