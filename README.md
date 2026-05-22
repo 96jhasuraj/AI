@@ -3,3 +3,5 @@
 #2. Logistic Regression: [Logistic Regression & Gradient Descent](https://github.com/96jhasuraj/AI/blob/main/LogisticRegression/README.MD)
 
 #3. Decoder only transformer: [Decoder](https://github.com/96jhasuraj/AI/blob/main/Transformer/README.MD)
+
+#4. Sentiment Analysis: [Encoder](https://github.com/96jhasuraj/AI/blob/main/Sentiment Analysis/README.MD)
