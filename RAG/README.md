@@ -10,3 +10,7 @@ issues : Pretty basic & naive implementation. O(n^2) operations over billion doc
 ![alt text](./img/image-1.png)
 ![alt text](./img/image-2.png)
 ![alt text](./img/image-3.png)
+
+#3. chromadb_rag_system
+TO DO: Create automated document ingestion from external sources + serve it with fastapi + auth + batch processing + Ui ( maybe streamlit )
+![alt text](./img/image-4.png)
